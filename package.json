@@ -1,0 +1,23 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedryc-ruth/express-test.git"
+  },
+  "author": "C. Ruth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedryc-ruth/express-test/issues"
+  },
+  "homepage": "https://github.com/cedryc-ruth/express-test#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  }
+}

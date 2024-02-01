@@ -1,0 +1,9 @@
+GET http://localhost:3000/wines?key=country&val=France&sort=name
+
+POST http://localhost:3000/wines/10/comments HTTP/1.1
+content-type: application/json
+
+{
+    "content": "Some content",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
